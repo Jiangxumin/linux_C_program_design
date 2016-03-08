@@ -1,0 +1,9 @@
+Package: cavp-session
+Version: 1.0.0
+Architecture: all
+Maintainer: ZhangQingsong <zhang_qsong@massclouds.com>
+Pre-Depends: debconf
+Depends: apache2, libapache2-mod-php5, php5-curl, php5-mysql, php-pear
+Description: cavp center session
+InstallDir: /usr/masscouds/a<=session/rutime  /var/masssclouds/<=xxxx/mmm  /ss/abc<=mmm/ddd
+
